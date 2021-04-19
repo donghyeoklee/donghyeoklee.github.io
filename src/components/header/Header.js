@@ -73,6 +73,7 @@ function Header() {
             <a href="#contact">Contact Me</a>
           </li>
           <li>
+// eslint-disable-next-line 
             <a href="#">
               <ToggleSwitch />
             </a>
